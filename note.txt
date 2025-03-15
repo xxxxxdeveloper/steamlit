@@ -1,1 +1,7 @@
 pip install streamlit
+
+git init	เริ่มต้น Git ในโฟลเดอร์
+git remote add origin <URL>	เชื่อมต่อกับ GitHub
+git add .	เพิ่มไฟล์ทั้งหมดเข้า Staging
+git commit -m "ข้อความ"	บันทึกการเปลี่ยนแปลง
+git push -u origin main	อัปโหลดโค้ดขึ้น GitHub
